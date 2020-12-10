@@ -1,4 +1,4 @@
-time,sensor_id,port,axes_x,axes_y,axes_z,temperature
+time,sensor_id,port,x,y,z,temperature
 2020-10-13 12:11:47.714311,29,1,384,-3632,-1696,0
 2020-10-13 12:11:47.792081,29,2,368,-304,4128,0
 2020-10-13 12:11:47.807671,30,1,0,0,0,0
